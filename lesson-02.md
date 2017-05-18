@@ -30,7 +30,7 @@
 
 ### Materi
 
-#### 1. HTML and Jikustik
+#### 1. HTML
 * Heading
   ```html
   <h1>Heading 1</h1>
