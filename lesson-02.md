@@ -1,7 +1,7 @@
 # CODING MUM
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Presentasi][8] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Presentation][8] |
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------------:|:--------------:|:-----------------:|
 
 ---
 
@@ -28,9 +28,9 @@
 
 ---
 
-### Materi
+### Material
 
-#### 1. HTML and Jikustik
+#### 1. HTML
 * Heading
   ```html
   <h1>Heading 1</h1>
@@ -81,17 +81,8 @@
     <input type="submit" value="Submit">
   </form>
   ```
-* Table
-  ```html
-  <table>
-    <tr>
-      <td>Kolom 1</td>
-      <td>Kolom 2</td>
-    </tr>
-  </table>
-  ```
 
-#### 2. Top CSS
+#### 2. CSS
 * Class
   ```css
   .header {
@@ -103,21 +94,10 @@
     font-size: 20px;
   }
   ```
-* ID
-  ```css
-  #header {
-    background-color: #ff0000;
-  }
-
-  #logo {
-    color: #000;
-    font-size: 20px;
-  }
-  ```
 
 ---
 
-### Latihan
+### Execises
 1. Buat file HTML dengan:
     * Logo
     * Navigation anchor / link
@@ -141,21 +121,21 @@
 
 ---
 
-### Referensi
+### References
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 "Intro to HTML and CSS")
 2. [HTML & CSS for Beginners](https://www.codecademy.com/en/tracks/htmlcss "HTML & CSS for Beginners")
 
 ---
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Presentasi][8] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Presentation][8] |
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------------:|:--------------:|:-----------------:|
 
 [0]: README.md "Home"
-[1]: lesson-01.md "Pengenalan Website Development"
-[2]: lesson-02.md "HTML dan CSS Dasar"
-[3]: lesson-03.md "Struktur Website"
-[4]: lesson-04.md "Intro Framework"
-[5]: lesson-05.md "Framework Lanjutan"
+[1]: lesson-01.md "Website Development Introduction"
+[2]: lesson-02.md "HTML and CSS Basic"
+[3]: lesson-03.md "Website Structure"
+[4]: lesson-04.md "Framework Introduction"
+[5]: lesson-05.md "Framework (Continued))"
 [6]: lesson-06.md "Personal Project"
 [7]: lesson-07.md "Domain, Hosting dan GitHub"
-[8]: lesson-08.md "Presentasi"
+[8]: lesson-08.md "Presentation"
