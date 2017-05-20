@@ -115,6 +115,11 @@
 
 ---
 
+### File
+[Download Lesson-03](files/lesson-03.zip)
+
+---
+
 ### Latihan
 1. Peserta membuat struktur website **Header**, **Content**, **Sidebar**, **Footer** menggunakan **HTML** `<div>`.
 2. Peserta membuat 2 dan 3 kolom bagian website menggunakan **HTML** `<div>` dan **CSS** `float`.
