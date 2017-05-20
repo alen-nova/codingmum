@@ -98,8 +98,7 @@
 ---
 
 ### Latihan
-1. Peserta membuat struktur website **Header**, **Content**, **Sidebar**, **Footer** menggunakan **HTML** `<div>`.
-2. Peserta membuat 2 dan 3 kolom bagian website menggunakan **HTML** `<div>` dan **CSS** `float`.
+1. Peserta membuat 3 dan 4 kolom bagian website menggunakan **HTML** `<div>` dan **CSS** `float`.
 
 ---
 

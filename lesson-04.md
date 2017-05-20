@@ -122,7 +122,7 @@
 ---
 
 ### Exercises
-2. Peserta membuat 4 kolom menggunakan Bootstrap.
+1. Peserta membuat 4 kolom menggunakan Bootstrap.
 
 ---
 
