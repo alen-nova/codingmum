@@ -37,86 +37,63 @@
 * HTML `index.html`
   ```html
   <div class="parent">
-    <div class="kolom1">
-      Kolom 1
-    </div>
-    <div class="kolom2">
-      Kolom 2
-    </div>
+      <div class="child1">Ini section 1</div>
+      <div class="child2">Ini section 2</div>
   </div>
   ```
 * CSS `style.css`
   ```css
   .parent {
-    background-color: #ff0000;
-    height: 200px;
-    width: 100%;
+      background-color: aqua;
   }
-
-  .kolom1 {
-    background-color: #00ff00;
-    float: left;
-    height: 100px;
-    width: 50%;
+  .child1 {
+      background-color: brown;
+      float: left;
+      width: 20%;
   }
-
-  .kolom2 {
-    background-color: #0000ff;
-    float: right;
-    height: 150px;
-    width: 50%;
+  .child2 {
+      background-color: cornflowerblue;
+      float: right;
+      width: 80%;
   }
   ```
 
 #### 3. HTML dan CSS 3 Kolom
 * HTML `index.html`
   ```html
-  <div class="parent">
-    <div class="kolom1">
-      Kolom 1
-    </div>
-    <div class="kolom2">
-      Kolom 2
-    </div>
-    <div class="kolom3">
-      Kolom 3
-    </div>
+  <div class="parent2">
+      <div class="childa">Ini section 1</div>
+      <div class="childb">Ini section 2</div>
+      <div class="childc">Ini section 3</div>
   </div>
   ```
 * CSS `style.css`
   ```css
-  .parent {
-    background-color: #ff0000;
-    height: 200px;
-    width: 100%;
+  .parent2 {
+      background-color: blueviolet;
+      margin-top: 50px;
   }
-
-  .kolom1 {
-    background-color: #00ff00;
-    float: left;
-    height: 50px;
-    width: 30%;
+  .childa {
+      background-color: bisque;
+      float: left;
+      width: 33%;
   }
-
-  .kolom2 {
-    background-color: #0000ff;
-    float: left;
-    height: 100px;
-    width: 40%;
+  .childb {
+      background-color: chocolate;
+      float: left;
+      width: 34%;
   }
-
-  .kolom3 {
-    background-color: #ffff00;
-    float: left;
-    height: 150px;
-    width: 30%;
+  .childc {
+      background-color: cadetblue;
+      float: left;
+      width: 33%;
   }
   ```
 
 ---
 
 ### File
-[Download Lesson-03](files/lesson-03.zip)
+[Download file for this lesson: lesson-03.zip](files/lesson-03.zip)
 
 ---
 

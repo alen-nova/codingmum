@@ -61,11 +61,68 @@
     </div>
   </div>
   ```
+* Bootstrap 3 Kolom Kompleks
+  ```html
+  <div class="container">
+      <div class="row">
+          <div class="col-xs-4 merah">
+              <div class="anak1">
+                  <h4>Anak 1</h4>
+                  <p>Ini paragraf Ini paragraf Ini paragraf</p>
+              </div>
+          </div>
+          <div class="col-xs-4 orange">
+              <div class="row">
+                  <div class="col-xs-12 orange">Cucu 1</div>
+                  <div class="col-xs-12 ungu">Cucu 2</div>
+              </div>
+          </div>
+          <div class="col-xs-4 hijau">
+            <div class="row">
+                <div class="col-xs-12 ungu">Cucu 1</div>
+                <div class="col-xs-12 orange">
+                    <div class="row">
+                       <div class="col-xs-6 hijau">Cicit 1</div>
+                       <div class="col-xs-6 merah">Cicit 2</div>
+                    </div>
+                </div>
+            </div>
+          </div>
+      </div>
+  </div>
+  ```
+
+#### 2. CSS pembantu
+* CSS `style.css`
+  ```css
+  .merah {
+      background-color: red;
+  }
+  .ungu {
+      background-color: purple;
+  }
+  .hijau {
+      background-color: green;
+  }
+  .orange {
+      background-color: orange;
+  }
+  .hitam {
+      background-color: black;
+  }
+  .anak1 {
+      margin-left: 20px;
+  }
+  ```
+---
+
+### File
+[Download file for this lesson: lesson-04.zip](files/lesson-04.zip)
 
 ---
 
 ### Exercises
-2. Peserta membuat 2 dan 3 kolom bagian website seperti **lesson-03**, namun menggunakan Bootstrap.
+2. Peserta membuat 4 kolom menggunakan Bootstrap.
 
 ---
 
