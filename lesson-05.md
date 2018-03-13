@@ -73,11 +73,11 @@
 |:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------------:|:--------------:|:-----------------:|
 
 [0]: README.md "Home"
-[1]: lesson-01.md "Website Development Introduction"
-[2]: lesson-02.md "HTML and CSS Basic"
-[3]: lesson-03.md "Website Structure"
-[4]: lesson-04.md "Framework Introduction"
-[5]: lesson-05.md "Framework (Continued))"
+[1]: lesson-01.md "Internet dan Web Development"
+[2]: lesson-02.md "Pengenalan HTML dan CSS"
+[3]: lesson-03.md "Pembahasan Lebih Rinci Tentang HTML"
+[4]: lesson-04.md "Pembahasan Lebih Rinci Tentang CSS"
+[5]: lesson-05.md "Framework Bootstrap"
 [6]: lesson-06.md "Personal Project"
 [7]: lesson-07.md "Domain, Hosting dan GitHub"
 [8]: lesson-08.md "Presentation"

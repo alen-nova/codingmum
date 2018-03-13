@@ -19,14 +19,14 @@
 
 ----
 
-### LESSON 03: PEMBAHASAN LEBIH RINCI HTML
+### LESSON 03: PEMBAHASAN LEBIH RINCI TENTANG HTML
 #### Objectives:
 1. Peserta mampu mengenal perintah **HTML** lainnya untuk menambahkan icon, meta data, list, line break dan menyisipkan video.
 2. Peserta mengerti struktur website dan box model yang dibentuk dari **HTML** `div`, dibantu **CSS**.
 
 ----
 
-### LESSON 04: PEMBAHASAN LEBIH RINCI CSS
+### LESSON 04: PEMBAHASAN LEBIH RINCI TENTANG CSS
 #### Objectives:
 1. Peserta membiasakan diri menggunakan eksternal file **CSS sebagai presentasi** dalam website.
 2. Peserta mulai dilatih untuk berkreatifitas membuat website sendiri dengan menggunakan referensi yang ada.
@@ -81,11 +81,11 @@
 |:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------------:|:--------------:|:-----------------:|
 
 [0]: README.md "Home"
-[1]: lesson-01.md "INTERNET DAN WEB DEVELOPMENT"
-[2]: lesson-02.md "PENGENALAN HTML DAN CSS"
-[3]: lesson-03.md "PEMBAHASAN LEBIH RINCI HTML"
-[4]: lesson-04.md "PEMBAHASAN LEBIH RINCI CSS"
-[5]: lesson-05.md "FRAMEWORK BOOTSTRAP"
-[6]: lesson-06.md "PERSONAL PROJECT"
-[7]: lesson-07.md "DOMAIN, HOSTING AND GITHUB"
-[8]: lesson-08.md "PRESENTATION"
+[1]: lesson-01.md "Internet dan Web Development"
+[2]: lesson-02.md "Pengenalan HTML dan CSS"
+[3]: lesson-03.md "Pembahasan Lebih Rinci Tentang HTML"
+[4]: lesson-04.md "Pembahasan Lebih Rinci Tentang CSS"
+[5]: lesson-05.md "Framework Bootstrap"
+[6]: lesson-06.md "Personal Project"
+[7]: lesson-07.md "Domain, Hosting dan GitHub"
+[8]: lesson-08.md "Presentation"
