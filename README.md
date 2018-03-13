@@ -5,37 +5,37 @@
 
 ---
 
-### LESSON 01: INTRO TO WEBSITE DEVELOPMENT
+### LESSON 01: INTERNET DAN WEB DEVELOPMENT
 #### Objectives:
 1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
 2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
 
 ----
 
-### LESSON 02: HTML AND CSS
+### LESSON 02: PENGENALAN HTML DAN CSS
 #### Objectives:
-1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor sederhana.
+1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor.
 2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
 
 ----
 
-### LESSON 03: WEBSITE STRUCTURE
+### LESSON 03: PEMBAHASAN LEBIH RINCI HTML
 #### Objectives:
-1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
-2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
+1. Peserta mampu mengenal perintah **HTML** lainnya untuk menambahkan icon, meta data, list, line break dan menyisipkan video.
+2. Peserta mengerti struktur website dan box model yang dibentuk dari **HTML** `div`, dibantu **CSS**.
 
 ----
 
-### LESSON 04: INTRO TO FRAMEWORK
+### LESSON 04: PEMBAHASAN LEBIH RINCI CSS
 #### Objectives:
-1. Peserta mengetahui framework sebagai alat bantu pemercepat pembuatan website.
-2. Peserta mampu membangun website menggunakan framework Bootstrap.
+1. Peserta membiasakan diri menggunakan eksternal file **CSS sebagai presentasi** dalam website.
+2. Peserta mulai dilatih untuk berkreatifitas membuat website sendiri dengan menggunakan referensi yang ada.
 
 ----
 
-### LESSON 05: FRAMEWORK
+### LESSON 05: FRAMEWORK BOOTSTRAP
 #### Objectives:
-1. Peserta mengerti konsep website responsive.
+1. Peserta mengerti konsep grid pada bootstrap dan website responsive.
 2. Peserta mampu menggunakan class pada Bootstrap untuk mobile, tablet, desktop dan large screen.
 
 ----
@@ -81,11 +81,11 @@
 |:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------------:|:--------------:|:-----------------:|
 
 [0]: README.md "Home"
-[1]: lesson-01.md "Website Development Introduction"
-[2]: lesson-02.md "HTML and CSS Basic"
-[3]: lesson-03.md "Website Structure"
-[4]: lesson-04.md "Framework Introduction"
-[5]: lesson-05.md "Framework (Continued))"
-[6]: lesson-06.md "Personal Project"
-[7]: lesson-07.md "Domain, Hosting dan GitHub"
-[8]: lesson-08.md "Presentation"
+[1]: lesson-01.md "INTERNET DAN WEB DEVELOPMENT"
+[2]: lesson-02.md "PENGENALAN HTML DAN CSS"
+[3]: lesson-03.md "PEMBAHASAN LEBIH RINCI HTML"
+[4]: lesson-04.md "PEMBAHASAN LEBIH RINCI CSS"
+[5]: lesson-05.md "FRAMEWORK BOOTSTRAP"
+[6]: lesson-06.md "PERSONAL PROJECT"
+[7]: lesson-07.md "DOMAIN, HOSTING AND GITHUB"
+[8]: lesson-08.md "PRESENTATION"
