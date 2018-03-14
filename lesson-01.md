@@ -5,11 +5,11 @@
 
 ---
 
-### LESSON 01: WEBSITE DEVELOPMENT INTRODUCTION
+### LESSON 01: INTERNET DAN WEB DEVELOPMENT
 
 ---
 
-### Objectives
+#### Objectives:
 1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
 2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
     * Header
@@ -17,36 +17,33 @@
     * Content
     * Sidebar
     * Footer
+3. Persiapan untuk kelas berikutnya.
 
 ---
 
-### Tools
-  * Paper
-  * Pen
-  * Ruler (optional)
+### Software yang harus diunduh dan di-install/
+  * [Sublime](https://www.sublimetext.com/3)
+  * [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=id)
 
 ---
 
 ### Material
 
-#### 1. Website Development Technologies
-  * Front-end:
-      * HTML
-      * CSS
-      * JavaScript
-  * Back-end:
-      * PHP
-      * Python
-      * Ruby
-      * Java
-      * etc
-  * Database:
-      * MySQL
-      * PostgreSQL
-      * Oracle
-      * etc
+#### 1. Konsep Client Server
+    * Server
+    * Internet
+    * Client
+    * Analogi
 
-#### 2. Website Development Tools
+#### 2. Dimana Coding Berada?
+    * Penjelasan Letak Coding Di Simpan
+
+#### 3. Siapa Saja di Balik Pembuatan Website?
+    * Front end
+    * Back end
+    * Over all
+
+#### 4. Software apa saja yang digunakan untuk membuat website?
   * Text Editor:
       * Notepad
       * Sublime Text
@@ -65,7 +62,24 @@
       * Web Developer
       * etc
 
-#### 3. Website Structure
+#### 5. Bahasa apa saja yang akan kamu dengar ketika akan belajar mebuat sebuah website?
+  * Front-end:
+      * HTML
+      * CSS
+      * JavaScript
+  * Back-end:
+      * PHP
+      * Python
+      * Ruby
+      * Java
+      * etc
+  * Database:
+      * MySQL
+      * PostgreSQL
+      * Oracle
+      * etc
+
+#### 6. HTML Basic
   * Header
   * Navigation
   * Wow Factor (Slider, Parallax, Carousel, dll)
@@ -85,7 +99,8 @@
     * Sidebar
     * Footer
     * etc
-2. Gambarkan struktur website yang diinginkan menggunakan Paper Prototyping.
+2. Persiapan instalasi Sublime dan Google Chrome.
+3. Jelaskan struktur folder untuk pembelajaran kelas CodingMum.
 
 ---
 
@@ -96,7 +111,7 @@
 ---
 
 ### References
-1. [Test Paper Prototypes to Save Time and Money: The Mozilla Case Study](https://www.nngroup.com/articles/mozilla-paper-prototype/ "Test Paper Prototypes to Save Time and Money: The Mozilla Case Study")
+1. [LESSON 01: INTERNET DAN WEB DEVELOPMENT](https://drive.google.com/file/d/1QVVNKQLrNK7v08rfxF45BdmQzATCO3ZA/view?usp=sharing)
 
 ---
 
