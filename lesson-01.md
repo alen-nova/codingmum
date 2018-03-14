@@ -21,7 +21,7 @@
 
 ---
 
-### Software yang harus diunduh dan di-install/
+### Software yang harus diunduh dan di-install
   * [Sublime](https://www.sublimetext.com/3)
   * [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=id)
 

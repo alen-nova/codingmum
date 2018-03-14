@@ -5,26 +5,19 @@
 
 ---
 
-### LESSON 02: HTML AND CSS
+### LESSON 02: PENGENALAN HTML DAN CSS
 
 ---
 
 ### Objectives
-1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor Brackets.
+1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor.
 2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
 
 ---
 
-### Tools
-1. **Windows**: [Brackets](http://brackets.io/)
-2. **Mac**: TextEdit
-3. **Browser**:
-    * Google Chrome
-    * Internet Explorer
-    * Mozilla Firefox
-    * Opera
-    * Safari
-    * Dll
+### Software yang harus dibutuhkan
+  * [Sublime](https://www.sublimetext.com/3)
+  * [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=id)
 
 ---
 
