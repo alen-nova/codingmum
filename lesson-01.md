@@ -36,7 +36,7 @@
   * Analogi
 
 #### 2. Dimana Coding Berada?
-    * Penjelasan Letak Coding Di Simpan
+  * Penjelasan Letak Coding Di Simpan
 
 #### 3. Siapa Saja di Balik Pembuatan Website?
   * Front end
