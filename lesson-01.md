@@ -30,18 +30,18 @@
 ### Material
 
 #### 1. Konsep Client Server
-    * Server
-    * Internet
-    * Client
-    * Analogi
+  * Server
+  * Internet
+  * Client
+  * Analogi
 
 #### 2. Dimana Coding Berada?
     * Penjelasan Letak Coding Di Simpan
 
 #### 3. Siapa Saja di Balik Pembuatan Website?
-    * Front end
-    * Back end
-    * Over all
+  * Front end
+  * Back end
+  * Over all
 
 #### 4. Software apa saja yang digunakan untuk membuat website?
   * Text Editor:
