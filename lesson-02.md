@@ -90,9 +90,9 @@
     </head>
     <body>
         <!--Eksternal link-->
-  <a href="https://www.facebook.com">Link ke facebook</a>
+        <a href="https://www.facebook.com">Link ke facebook</a>
         <!--Internal link-->
-  <a href="kontak.html">Halaman Kontak</a>
+        <a href="kontak.html">Halaman Kontak</a>
     </body>
   </html>
   ```
@@ -144,7 +144,7 @@
     * Gambar
     * Paragraf
     * Link
-2. Beri style pada website yang dibuat di latihan 1.
+2. Beri style pada website yang dibuat di latihan pertama.
 
 ---
 
@@ -161,7 +161,7 @@
 ---
 
 ### SLIDE PPT
-1. [LESSON 02: PENGENALAN HTML DAN CSS](files/Lesson 2 - Pengenalan HTML dan CSS.pdf)
+[LESSON 02: PENGENALAN HTML DAN CSS]("files/Lesson2-PengenalanHTMLdanCSS.pdf)
 
 ---
 
