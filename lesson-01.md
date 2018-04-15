@@ -110,8 +110,8 @@
 
 ---
 
-### References
-1. [LESSON 01: INTERNET DAN WEB DEVELOPMENT](https://drive.google.com/file/d/1QVVNKQLrNK7v08rfxF45BdmQzATCO3ZA/view?usp=sharing)
+### SLIDE PPT
+1. [LESSON 01: INTERNET DAN WEB DEVELOPMENT](files/Lesson 1 - Internet dan Web Development.pdf)
 
 ---
 

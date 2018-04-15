@@ -10,8 +10,16 @@
 ---
 
 ### Objectives
-1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor.
-2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
+1. Peserta mampu membuat **HTML** dasar dengan text editor.
+    * Title
+    * Heading
+    * Image
+    * Paragraph
+    * Links
+2. Peserta memahami cara menyisipkan **CSS** pada sebuah halaman **HTML**.
+    * Inline
+    * Internal
+    * Eksternal
 
 ---
 
@@ -24,87 +32,119 @@
 ### Material
 
 #### 1. HTML
+* Title
+  ```html
+  <html>
+    <head>
+        <title>Belajar Membuat Title</title>
+    </head>
+  </html>
+  ```
 * Heading
   ```html
-  <h1>Heading 1</h1>
-  <h2>Heading 2</h2>
-  <h3>Heading 3</h3>
-  <h4>Heading 4</h4>
-  <h5>Heading 5</h5>
-  <h6>Heading 6</h6>
-  ```
-* Anchor / Link
-  ```html
-  <a href="http://google.com">Ini text link menuju Google</a>
-  ```
-  ```html
-  <a href="about-us.html">Ini text link menuju file about-us.html</a>
-  ```
-* Paragraph
-  ```html
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  ```
-* List
-  ```html
-  <ul>
-    <li>Unordered list 1</li>
-    <li>Unordered list 2</li>
-  </ul>
-  ```
-  ```html
-  <ol>
-    <li>Ordered list 1</li>
-    <li>Ordered list 2</li>
-  </ol>
+  <html>
+    <head>
+        <title>Belajar Membuat Heading</title>
+    </head>
+    <body>
+      Hallo
+      <h1>Heading 1</h1>
+      <h2>Heading 2</h2>
+      <h3>Heading 3</h3>
+      <h4>Heading 4</h4>
+      <h5>Heading 5</h5>
+      <h6>Heading 6</h6>
+    </body>
+  </html>
   ```
 * Image
   ```html
-  <img src="nama_folder/nama_file.jpg">
-  <img src="nama_folder/nama_file.png">
-  <img src="nama_folder/nama_file.gif">
+  <html>
+    <head>
+        <title>Belajar Menyisipkan Gambar</title>
+    </head>
+    <body>
+  <img src="images/doraemon.jpg" alt="Gambar Doraemon JPG" width="104" height="142">
+  <img src="images/doraemon.gif" alt="Gambar Doraemon GIF" width="104" height="142">
+  <img src="images/doraemon.png" alt="Gambar Doraemon PNG" width="104" height="142">
+    </body>
+  </html>
   ```
-* Video
+* Paragraph
   ```html
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-We_dYsLTtY" frameborder="0" allowfullscreen></iframe>
+  <html>
+    <head>
+        <title>Belajar Membuat Paragraf</title>
+    </head>
+    <body>
+  <p>Ini adalah paragraf satu.</p>
+  <p>Ini adalah paragraf dua.</p>
+    </body>
+  </html>
   ```
-* Form
+* Anchor / Link
   ```html
-  <form>
-    <input type="text" name="search">
-    <input type="submit" value="Submit">
-  </form>
+  <html>
+    <head>
+        <title>Belajar Membuat Links</title>
+    </head>
+    <body>
+        <!--Eksternal link-->
+  <a href="https://www.facebook.com">Link ke facebook</a>
+        <!--Internal link-->
+  <a href="kontak.html">Halaman Kontak</a>
+    </body>
+  </html>
   ```
 
 #### 2. CSS
-* Class
-  ```css
-  .header {
-    background-color: #ff0000;
-  }
+* Inline CSS
+  ```html
+  <html>
+    <head>
+        <title>Belajar Membuat Links</title>
+    </head>
+    <body>
+  <h1 style="color:blue;">Ini warna biru</h1>
+  <h1 style="color:green;">Ini warna hijau</h1>
+    </body>
+  </html>
+  ```
 
-  .logo {
-    color: #000;
-    font-size: 20px;
-  }
+* Internal CSS
+  ```html
+  <html>
+    <head>
+        <title>Belajar Membuat Links</title>
+        <style>
+          body{
+            background-color:powderblue;
+          }
+          h1{
+            color:blue;
+            text-align:center;
+          }
+          p{
+            color:red;
+          }
+        </style>
+    </head>
+    <body>
+    <h1>This is Heading</h1>
+    <p>This is paragraph</p>
+    </body>
+  </html>
   ```
 
 ---
 
 ### Execises
 1. Buat file HTML dengan:
-    * Logo
-    * Navigation anchor / link
-    * Heading
-    * Content
-    * Images
-    * Video
-2. Buat file CSS eksternal dengan:
-    * Class
-    * Aturan:
-      * background-color
-      * color
-      * font-size
-      * dll
+    * Judul
+    * Gambar
+    * Paragraf
+    * Link
+2. Beri style pada website yang dibuat di latihan 1.
 
 ---
 
@@ -117,6 +157,11 @@
 ### References
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 "Intro to HTML and CSS")
 2. [HTML & CSS for Beginners](https://www.codecademy.com/en/tracks/htmlcss "HTML & CSS for Beginners")
+
+---
+
+### SLIDE PPT
+1. [LESSON 02: PENGENALAN HTML DAN CSS](files/Lesson 2 - Pengenalan HTML dan CSS.pdf)
 
 ---
 
