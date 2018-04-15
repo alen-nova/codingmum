@@ -10,95 +10,188 @@
 ---
 
 ### Objectives
-1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
-2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
+1. Peserta mengerti perintah untuk menyisipkan icon, meta data, video, list, dan line break.
+2. Peserta mengerti struktur website dibentuk dari **HTML** `div`.
+3. Peserta mampu memahami box model pada CSS.
 
 ---
 
 ### Material
 
-#### 1. HTML dan CSS 1 Kolom
-* HTML `index.html`
+#### 1. HTML
+* Icon
   ```html
-  <div class="parent">
-    Ini div 1 kolom
-  </div>
+  <html>
+     <head>
+        <title>TITLE OF WEBSITE</title>
+      <link rel="icon" type="image/png" href="images/icon.png">
+     </head>
+     <body>
+        This is body...
+     </body>
+  </html>
   ```
-* CSS `style.css`
-  ```css
-  .parent {
-    background-color: #ff0000;
-    height: 200px;
-    width: 100%;
-  }
+* Meta
+  ```html
+    <html>
+      <head>
+        <title>TITLE OF WEBSITE</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="CodingMum Web
+        tutorial">
+        <meta name="author" content="Alexander">
+      </head>
+      <body>
+        This is body...
+      </body>
+    </html>
+  ```  
+* Line Break
+  ```html
+  <html>
+     <head>
+        <title>TITLE OF WEBSITE</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="CodingMum Web tutorial">
+        <meta name="author" content="Alexander">
+     </head>
+     <body>
+        This is the first line sentece. <br/>
+        This is the second line sentence.
+     </body>
+  </html>
+  ```
+* Unordered List
+  ```html
+  <html>
+    <head>
+      <title>TITLE OF WEBSITE</title>
+      <meta charset="UTF-8">
+      <meta name="description" content="CodingMum Web tutorial">
+      <meta name="author" content="Alexander">
+    </head>
+    <body>
+      <h2>Alat membuat mie goreng</h2>
+      <ul>
+        <li>Panci</li>
+        <li>Piring</li>
+        <li>Sendok</li>
+        <li>Kompor Gas</li>
+      </ul>
+    </body>
+  </html>
+  ```
+* Ordered List
+  ```html
+  <html>
+    <head>
+      <title>TITLE OF WEBSITE</title>
+      <meta charset="UTF-8">
+      <meta name="description" content="CodingMum Web tutorial">
+      <meta name="author" content="Alexander">
+    </head>
+    <body>
+      <h2>Langkah membuat mie:</h2>
+      <ol>
+        <li>Rebus air dalam panci</li>
+        <li>Ambil mie instant</li>
+        <li>Masukan dalam air yang sudah mendidih</li>
+        <li>Setelah matang mie-nya, angkat dan tiriskan</li>
+        <li>Masukan bumbu mie intant dalam piring</li>
+        <li>Masukan mie yang sudah tiris</li>
+        <li>Aduk rata mie dengan bumbu</li>
+      </ol>
+    </body>
+  </html>
+  ```
+* Video
+  ```html
+  <html>
+     <head>
+        <title>TITLE OF WEBSITE</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="CodingMum Web tutorial">
+        <meta name="author" content="Alexander">
+     </head>
+     <body>
+     This is video of CodingMum:<br/>
+        <video id="video-1" width="320" height="240" controls>
+           <source src="videos/CodingMum_Mancanegara.mp4" type="video/mp4" />
+        </video>
+     </body>
+  </html>
+  ```  
+* div
+  ```html
+  <html>
+     <head>
+        <title>TITLE OF WEBSITE</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="CodingMum Web tutorial">
+        <meta name="author" content="Alexander">
+     </head>
+     <body>
+      <div style=“width:200px;height:400px;” >Ini adalah sebuah persegi</div>
+      <div style=“width:400px;height:400px;” >Ini adalah sebuah kotak</div>
+     </body>
+  </html>
   ```
 
-#### 2. HTML dan CSS 2 Kolom
-* HTML `index.html`
+#### 2. CSS Box Model
+* Border
   ```html
-  <div class="parent">
-      <div class="child1">Ini section 1</div>
-      <div class="child2">Ini section 2</div>
-  </div>
+  <html>
+     <head>
+        <title>TITLE OF WEBSITE</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="CodingMum Web tutorial">
+        <meta name="author" content="Alexander">
+     </head>
+     <body>
+      <div style=“width:200px;height:400px;border: 5px solid red;” >Ini adalah sebuah persegi</div>
+      <div style=“width:400px;height:400px;border: 5px dotted blue;” >Ini adalah sebuah kotak</div>
+     </body>
+  </html>
   ```
-* CSS `style.css`
-  ```css
-  .parent {
-      background-color: aqua;
-  }
-  .child1 {
-      background-color: brown;
-      float: left;
-      width: 20%;
-  }
-  .child2 {
-      background-color: cornflowerblue;
-      float: right;
-      width: 80%;
-  }
-  ```
-
-#### 3. HTML dan CSS 3 Kolom
-* HTML `index.html`
+* Margin
   ```html
-  <div class="parent2">
-      <div class="childa">Ini section 1</div>
-      <div class="childb">Ini section 2</div>
-      <div class="childc">Ini section 3</div>
-  </div>
+  <html>
+     <head>
+        <title>TITLE OF WEBSITE</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="CodingMum Web tutorial">
+        <meta name="author" content="Alexander">
+     </head>
+     <body>
+      <div style=“width:200px;height:400px;border: 5px solid red;margin:30px;” >Ini adalah sebuah persegi</div>
+      <div style=“width:400px;height:400px;border: 5px dotted blue;margin:60px;” >Ini adalah sebuah kotak</div>
+     </body>
+  </html>
   ```
-* CSS `style.css`
-  ```css
-  .parent2 {
-      background-color: blueviolet;
-      margin-top: 50px;
-  }
-  .childa {
-      background-color: bisque;
-      float: left;
-      width: 33%;
-  }
-  .childb {
-      background-color: chocolate;
-      float: left;
-      width: 34%;
-  }
-  .childc {
-      background-color: cadetblue;
-      float: left;
-      width: 33%;
-  }
+* Padding
+  ```html
+  <html>
+     <head>
+        <title>TITLE OF WEBSITE</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="CodingMum Web tutorial">
+        <meta name="author" content="Alexander">
+     </head>
+     <body>
+      <div style=“width:200px;height:400px;border: 5px solid red;margin:30px;padding:60px;” >Ini adalah sebuah persegi</div>
+      <div style=“width:400px;height:400px;border: 5px dotted blue;margin:60px;padding:30px;” >Ini adalah sebuah kotak</div>
+     </body>
+  </html>
   ```
-
 ---
 
-### File
-[Download file for this lesson: lesson-03.zip](files/lesson-03.zip)
+### SLIDE PPT
+[LESSON 03: PEMBAHASAN RINCI HTML](files/Lesson3-PembahasanRinciHTML.pdf)
 
 ---
 
 ### Latihan
-1. Peserta membuat 3 dan 4 kolom bagian website menggunakan **HTML** `<div>` dan **CSS** `float`.
+1. Peserta dapat mulai membuat halaman resep dengan memanfaatkan list, image, video, paragraf, dan heading yang sudah dipelajari sebelumnya.
 
 ---
 
