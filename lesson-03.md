@@ -5,7 +5,7 @@
 
 ---
 
-### LESSON 03: WEBSITE STRUCTURE
+### LESSON 03: PEMBAHASAN RINCI HTML
 
 ---
 
@@ -121,7 +121,7 @@
      </body>
   </html>
   ```  
-* div
+* Div
   ```html
   <html>
      <head>

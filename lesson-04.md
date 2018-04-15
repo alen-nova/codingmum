@@ -10,132 +10,182 @@
 ---
 
 ### Objectives
-1. Peserta mengetahui framework sebagai alat bantu pemercepat pembuatan website.
-2. Peserta mampu membangun website menggunakan framework Bootstrap.
+1. Peserta mengetahui cara menyisipkan CSS pada halaman HTML secara eksternal.
+2. Peserta mengetahui selector dan property CSS.
+
 
 ---
 
 ### Material
 
-#### 1. Preparation
-* Download Bootstrap from http://getbootstrap.com/css/#grid
-* Find and copy file `bootstrap.css` into your project's folder.
+#### 1. Cara menyisipkan CSS pada halaman HTML
+* Inline style sheet (TIDAK DIREKOMENDASIKAN).
+  Di dalam HTML element tag attribute “style”
+* Internal style sheet (TIDAK DIREKOMENDASIKAN).
+  Definisi di dalam element <style> di dalam element <head>
+* External style sheet (SANGAT DIREKOMENDASIKAN)
+  Ditempatkan di file terpisah dengan .css extension.
+  Dapat merubah banyak HTML pages dengan 1 file CSS
 
-#### 2. Container and Row sebagai parent dari kolom-kolom.
-* Bootstrap 1 Kolom
-  ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        Satu kolom
-      </div>
-    </div>
-  </div>
-  ```
-* Bootstrap 2 Kolom
-  ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-6">
-        Kolom 1
-      </div>
-      <div class="col-xs-6">
-        Kolom 2
-      </div>
-    </div>
-  </div>
-  ```
-* Bootstrap 3 Kolom
-  ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-4">
-        Kolom 1
-      </div>
-      <div class="col-xs-4">
-        Kolom 2
-      </div>
-      <div class="col-xs-4">
-        Kolom 3
-      </div>
-    </div>
-  </div>
-  ```
-* Bootstrap 3 Kolom Kompleks
-  ```html
-  <div class="container">
-      <div class="row">
-          <div class="col-xs-4 merah">
-              <div class="anak1">
-                  <h4>Anak 1</h4>
-                  <p>Ini paragraf Ini paragraf Ini paragraf</p>
-              </div>
-          </div>
-          <div class="col-xs-4 orange">
-              <div class="row">
-                  <div class="col-xs-12 orange">Cucu 1</div>
-                  <div class="col-xs-12 ungu">Cucu 2</div>
-              </div>
-          </div>
-          <div class="col-xs-4 hijau">
-            <div class="row">
-                <div class="col-xs-12 ungu">Cucu 1</div>
-                <div class="col-xs-12 orange">
-                    <div class="row">
-                       <div class="col-xs-6 hijau">Cicit 1</div>
-                       <div class="col-xs-6 merah">Cicit 2</div>
-                    </div>
-                </div>
-            </div>
-          </div>
-      </div>
-  </div>
-  ```
+#### 2. Format Penulisan CSS
 
-#### 2. CSS pembantu
-* CSS `style.css`
+* Selector 
+  Menunjuk ke HTML element mana yang mau didekor), misal: h1, p, ul, dsb.
+
+* Declaration Block
+  Diawali dengan tanda “{“ dan diakhiri dengan tanda “}”
+  Deklarasi terdiri dari nama property dan nilainya, dipisahkan dengan tanda titik-dua “:”, misal: color:blue
+  Setiap deklarasi diakhiri dengan tanda semi-colon “;”
+
+#### 3. CSS Selectors itu bisa berdasarkan:
+
+* HTML element name
+  p, h1, table, dsb
+* id
+  Diawali dengan tanda hash “#“
+* class
+  Diawali dengan tanda titik “.“
+* lainnya
+  Kombinasi antara HTML element name dengan id
+  Kombinasi antara HTML element name dengan HTML element name yang lainnya
+
+#### 4. Inline style sheet
+  ```html
+  <html>
+    <head>
+      <title>Lesson 04 - CSS</title>
+    </head>
+    <body style="background-color: lightblue;">
+      <h1 style="color: white; text-align: center;">
+        Non CSS Example
+      </h1>
+      <h2 style="color: red;text-align: right;">
+        Second Title 01
+      </h2>
+      <h2 style="color: red;text-align: right;">
+        Second Title 02
+      </h2>
+      <p style="font-family: verdana;font-size: 20px;">
+        This is a paragraph satu.
+      </p>
+      <p style="font-family: verdana;font-size: 20px;">
+        This is a paragraph dua.
+      </p>
+      <p style="font-family: verdana;font-size: 20px;">
+        This is a paragraph tiga.
+      </p>
+    </body>
+  </html>
+  ```
+#### 5. Internal style sheet
+
+  ```html
+  <html>
+    <head>
+      <title>Lesson 04 - CSS</title>
+      <style type="text/css">
+        body{
+          background-color: lightblue;
+        }
+        h1{
+          color: white;
+          text-align: center;
+        }
+        h2{
+          color: red;
+          text-align: right;
+        }
+        p{
+          font-family: verdana;
+          font-size: 20px;
+        }
+      </style>
+    </head>
+    <body>
+      <h1>
+        Non CSS Example
+      </h1>
+      <h2>
+        Second Title 01
+      </h2>
+      <h2>
+        Second Title 02
+      </h2>
+      <p>
+        This is a paragraph satu.
+      </p>
+      <p>
+        This is a paragraph dua.
+      </p>
+      <p>
+        This is a paragraph tiga.
+      </p>
+    </body>
+  </html>
+  ```
+#### 6. External style sheet
+
+  ```html
+  <html>
+    <head>
+      <title>Lesson 04 - CSS</title>
+      <link rel="stylesheet" type="text/css" href="css/mystyle.css">
+    </head>
+    <body>
+      <h1>
+        Non CSS Example
+      </h1>
+      <h2>
+        Second Title 01
+      </h2>
+      <h2>
+        Second Title 02
+      </h2>
+      <p>
+        This is a paragraph satu.
+      </p>
+      <p>
+        This is a paragraph dua.
+      </p>
+      <p>
+        This is a paragraph tiga.
+      </p>
+    </body>
+  </html>
+  ```
+  Ada dalam css/mystyle.css
   ```css
-  .merah {
-      background-color: red;
+  body{
+    background-color: lightblue;
   }
-  .ungu {
-      background-color: purple;
+  h1{
+    color: white;
+    text-align: center;
   }
-  .hijau {
-      background-color: green;
+  h2{
+    color: red;
+    text-align: right;
   }
-  .orange {
-      background-color: orange;
-  }
-  .hitam {
-      background-color: black;
-  }
-  .anak1 {
-      margin-left: 20px;
+  p{
+    font-family: verdana;
+    font-size: 20px;
   }
   ```
 ---
 
 ### File
-[Download file for this lesson: lesson-04.zip](files/lesson-04.zip)
+[LESSON 04: PEMBAHASAN LEBIH RINCI CSS](files/Lesson4-PembahasanlebihrinciCSS.pdf)
 
 ---
 
 ### Exercises
-1. Peserta membuat 4 kolom menggunakan Bootstrap.
+1. Peserta mampu mengimplementasikan CSS Eksternal dalam mempercantik website.
 
 ---
 
 ### Feedback
 1. Apa yang menjadi bottleneck dari **lesson 04** ini?
 2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 04** ini?
-
----
-
-### References
-1. [Bootstrap Official](http://getbootstrap.com/ "Bootstrap Official")
-2. [Front-End Web UI Frameworks and Tools](https://www.coursera.org/learn/web-frameworks "Front-End Web UI Frameworks and Tools")
-2. [Introduction to Bootstrap](https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-2 "Introduction to Bootstrap")
 
 ---
 
