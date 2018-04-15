@@ -111,7 +111,7 @@
 ---
 
 ### SLIDE PPT
-1. [LESSON 01: INTERNET DAN WEB DEVELOPMENT](files/Lesson 1 - Internet dan Web Development.pdf)
+[LESSON 01: INTERNET DAN WEB DEVELOPMENT](files/Lesson1-InternetdanWebDevelopment.pdf)
 
 ---
 
