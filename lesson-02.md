@@ -161,7 +161,7 @@
 ---
 
 ### SLIDE PPT
-[LESSON 02: PENGENALAN HTML DAN CSS]("files/Lesson2-PengenalanHTMLdanCSS.pdf)
+[LESSON 02: PENGENALAN HTML DAN CSS](files/Lesson2-PengenalanHTMLdanCSS.pdf)
 
 ---
 
