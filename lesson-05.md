@@ -9,10 +9,10 @@
 ---
 
 ### Objectives
-1. Perkenalan tentang Bootstrap.
-2. Peserta mampu mengerti penggunaan Bootstrap.
-3. Peserta mengerti konsep responsive dengan menggunakan Bootstrap.
-4. Membuat layout website dengan menggunakan Bootstrap.
+1. Perkenalan tentang **Bootstrap**.
+2. Peserta mampu mengerti penggunaan **Bootstrap**.
+3. Peserta mengerti konsep responsive dengan menggunakan **Bootstrap**.
+4. Membuat layout website dengan menggunakan **Bootstrap**.
 
 ---
 

@@ -16,6 +16,8 @@
     * Footer
 3. Persiapan untuk kelas berikutnya.
 
+### File
+[LESSON 01: INTERNET DAN WEB DEVELOPMENT](files/Lesson1-InternetdanWebDevelopment.pdf)
 ----
 
 ### LESSON 02: PENGENALAN HTML DAN CSS
@@ -31,30 +33,38 @@
     * Internal
     * Eksternal
 
+### File
+[LESSON 02: PENGENALAN HTML DAN CSS](files/Lesson2-PengenalanHTMLdanCSS.pdf)
 ----
 
 ### LESSON 03: PEMBAHASAN LEBIH RINCI TENTANG HTML
 #### Objectives:
 1. Peserta mengerti perintah untuk menyisipkan icon, meta data, video, list, dan line break.
 2. Peserta mengerti struktur website dibentuk dari **HTML** `div`.
-3. Peserta mampu memahami box model pada CSS.
+3. Peserta mampu memahami box model pada **CSS**.
 
+### File
+[LESSON 03: PEMBAHASAN RINCI HTML](files/Lesson3-PembahasanRinciHTML.pdf)
 ----
 
 ### LESSON 04: PEMBAHASAN LEBIH RINCI TENTANG CSS
 #### Objectives:
-1. Peserta mengetahui cara menyisipkan CSS pada halaman HTML secara eksternal.
-2. Peserta mengetahui selector dan property CSS.
+1. Peserta mengetahui cara menyisipkan **CSS** pada halaman **HTML** secara eksternal.
+2. Peserta mengetahui selector dan property **CSS**.
 
+### File
+[LESSON 04: PEMBAHASAN LEBIH RINCI CSS](files/Lesson4-PembahasanlebihrinciCSS.pdf)
 ----
 
 ### LESSON 05: BOOTSTRAP
 #### Objectives:
-1. Perkenalan tentang Bootstrap.
-2. Peserta mampu mengerti penggunaan Bootstrap.
-3. Peserta mengerti konsep responsive dengan menggunakan Bootstrap.
-4. Membuat layout website dengan menggunakan Bootstrap.
+1. Perkenalan tentang **Bootstrap**.
+2. Peserta mampu mengerti penggunaan **Bootstrap**.
+3. Peserta mengerti konsep responsive dengan menggunakan **Bootstrap**.
+4. Membuat layout website dengan menggunakan **Bootstrap**.
 
+### File
+[LESSON 05: FRAMEWORK BOOTSTRAP](files/Lesson5-Bootstrap.pdf)
 ----
 
 ### LESSON 06: PERSONAL PROJECT

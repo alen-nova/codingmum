@@ -10,8 +10,8 @@
 ---
 
 ### Objectives
-1. Peserta mengetahui cara menyisipkan CSS pada halaman HTML secara eksternal.
-2. Peserta mengetahui selector dan property CSS.
+1. Peserta mengetahui cara menyisipkan **CSS** pada halaman **HTML** secara eksternal.
+2. Peserta mengetahui selector dan property **CSS**.
 
 
 ---

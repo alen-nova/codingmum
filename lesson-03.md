@@ -12,7 +12,7 @@
 ### Objectives
 1. Peserta mengerti perintah untuk menyisipkan icon, meta data, video, list, dan line break.
 2. Peserta mengerti struktur website dibentuk dari **HTML** `div`.
-3. Peserta mampu memahami box model pada CSS.
+3. Peserta mampu memahami box model pada **CSS**.
 
 ---
 
@@ -185,7 +185,7 @@
   ```
 ---
 
-### SLIDE PPT
+### File
 [LESSON 03: PEMBAHASAN RINCI HTML](files/Lesson3-PembahasanRinciHTML.pdf)
 
 ---
