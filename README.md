@@ -17,7 +17,7 @@
 3. Persiapan untuk kelas berikutnya.
 
 #### File
-[LESSON 01: INTERNET DAN WEB DEVELOPMENT](files/Lesson1-InternetdanWebDevelopment.pdf)
+	[LESSON 01: INTERNET DAN WEB DEVELOPMENT](files/Lesson1-InternetdanWebDevelopment.pdf)
 ----
 
 ### LESSON 02: PENGENALAN HTML DAN CSS
@@ -34,7 +34,7 @@
     * Eksternal
 
 #### File
-[LESSON 02: PENGENALAN HTML DAN CSS](files/Lesson2-PengenalanHTMLdanCSS.pdf)
+	[LESSON 02: PENGENALAN HTML DAN CSS](files/Lesson2-PengenalanHTMLdanCSS.pdf)
 ----
 
 ### LESSON 03: PEMBAHASAN LEBIH RINCI TENTANG HTML
@@ -44,7 +44,7 @@
 3. Peserta mampu memahami box model pada **CSS**.
 
 #### File
-[LESSON 03: PEMBAHASAN RINCI HTML](files/Lesson3-PembahasanRinciHTML.pdf)
+	[LESSON 03: PEMBAHASAN RINCI HTML](files/Lesson3-PembahasanRinciHTML.pdf)
 ----
 
 ### LESSON 04: PEMBAHASAN LEBIH RINCI TENTANG CSS
@@ -53,7 +53,7 @@
 2. Peserta mengetahui selector dan property **CSS**.
 
 #### File:
-[LESSON 04: PEMBAHASAN LEBIH RINCI CSS](files/Lesson4-PembahasanlebihrinciCSS.pdf)
+	[LESSON 04: PEMBAHASAN LEBIH RINCI CSS](files/Lesson4-PembahasanlebihrinciCSS.pdf)
 ----
 
 ### LESSON 05: BOOTSTRAP
@@ -64,7 +64,7 @@
 4. Membuat layout website dengan menggunakan **Bootstrap**.
 
 #### File:
-[LESSON 05: FRAMEWORK BOOTSTRAP](files/Lesson5-Bootstrap.pdf)
+	[LESSON 05: FRAMEWORK BOOTSTRAP](files/Lesson5-Bootstrap.pdf)
 ----
 
 ### LESSON 06: PERSONAL PROJECT
