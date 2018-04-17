@@ -235,7 +235,7 @@
 ---
 
 ### File
-[LESSON 05: BOOTSTRAP](files/Lesson5-Bootstrap.pdf)
+[LESSON 05: FRAMEWORK BOOTSTRAP](files/Lesson5-Bootstrap.pdf)
 
 ---
 

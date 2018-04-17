@@ -9,34 +9,51 @@
 #### Objectives:
 1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
 2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
+    * Header
+    * Navigation
+    * Content
+    * Sidebar
+    * Footer
+3. Persiapan untuk kelas berikutnya.
 
 ----
 
 ### LESSON 02: PENGENALAN HTML DAN CSS
 #### Objectives:
-1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor.
-2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
+1. Peserta mampu membuat **HTML** dasar dengan text editor.
+    * Title
+    * Heading
+    * Image
+    * Paragraph
+    * Links
+2. Peserta memahami cara menyisipkan **CSS** pada sebuah halaman **HTML**.
+    * Inline
+    * Internal
+    * Eksternal
 
 ----
 
 ### LESSON 03: PEMBAHASAN LEBIH RINCI TENTANG HTML
 #### Objectives:
-1. Peserta mampu mengenal perintah **HTML** lainnya untuk menambahkan icon, meta data, list, line break dan menyisipkan video.
-2. Peserta mengerti struktur website dan box model yang dibentuk dari **HTML** `div`, dibantu **CSS**.
+1. Peserta mengerti perintah untuk menyisipkan icon, meta data, video, list, dan line break.
+2. Peserta mengerti struktur website dibentuk dari **HTML** `div`.
+3. Peserta mampu memahami box model pada CSS.
 
 ----
 
 ### LESSON 04: PEMBAHASAN LEBIH RINCI TENTANG CSS
 #### Objectives:
-1. Peserta membiasakan diri menggunakan eksternal file **CSS sebagai presentasi** dalam website.
-2. Peserta mulai dilatih untuk berkreatifitas membuat website sendiri dengan menggunakan referensi yang ada.
+1. Peserta mengetahui cara menyisipkan CSS pada halaman HTML secara eksternal.
+2. Peserta mengetahui selector dan property CSS.
 
 ----
 
-### LESSON 05: FRAMEWORK BOOTSTRAP
+### LESSON 05: BOOTSTRAP
 #### Objectives:
-1. Peserta mengerti konsep grid pada bootstrap dan website responsive.
-2. Peserta mampu menggunakan class pada Bootstrap untuk mobile, tablet, desktop dan large screen.
+1. Perkenalan tentang Bootstrap.
+2. Peserta mampu mengerti penggunaan Bootstrap.
+3. Peserta mengerti konsep responsive dengan menggunakan Bootstrap.
+4. Membuat layout website dengan menggunakan Bootstrap.
 
 ----
 
