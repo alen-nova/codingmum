@@ -174,7 +174,7 @@
 ---
 
 ### File
-[LESSON 04: PEMBAHASAN LEBIH RINCI CSS](files/Lesson4-PembahasanLebihRinciCSS.pptx)
+[LESSON 04: PEMBAHASAN LEBIH RINCI CSS](files/Lesson4-PembahasanLebihRinciCSS.pdf)
 
 ---
 

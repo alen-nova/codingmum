@@ -186,7 +186,7 @@
 ---
 
 ### File
-[LESSON 03: PEMBAHASAN RINCI HTML](files/Lesson3-PembahasanRinciHTML.pptx)
+[LESSON 03: PEMBAHASAN RINCI HTML](files/Lesson3-PembahasanRinciHTML.pdf)
 
 ---
 
